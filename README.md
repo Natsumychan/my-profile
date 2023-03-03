@@ -19,7 +19,7 @@ At the moment I am studying in **Platzi** courses about HTML, CSS, JavaScript an
 These alias commands are gonna be very useful to check the git status on your repositories:
 
 | Alias | Global configuration | Description |
-| ------ | ------ |
+| ------ | ------ | ------ |
 |$ git lg | $ git config --global alias.lg "log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all" | It shows a very clear and summarized log information |
 | $ git s | git config --global alias.s status --short| it shows git status|
 | $ git sh | git config --global alias.sh status -sb| Another version for git status alias |
