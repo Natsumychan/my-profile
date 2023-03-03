@@ -5,7 +5,7 @@
 
 At the moment I am studying in **Platzi** courses about HTML, CSS, JavaScript and React, with the purpose to continue learning about these programs. Also, I'm making a bootcamp in **Undefined Shell** with  *Guillermo Rodas* to keep in practice what I have learned in Platzi.
 
-### Terminal commands (The next table use Linux prompt style)
+### Terminal commands (The next table use Linux prompt style)👩‍💻
 | Command | Description |
 | ------ | ------ |
 | $ rm -r | remove a folder, e.g:  $ rm -r hola . |
@@ -14,7 +14,7 @@ At the moment I am studying in **Platzi** courses about HTML, CSS, JavaScript an
 | $ ls | show your files or document in your actual route or a specific route, e.g: $ ls Documents |
 | $ cowsay| checkout what this do on your terminal :eyes: . e.g: $ cowsay -d  "Not okay"   |
 
-### Alias commmand
+### Alias commmand😶‍🌫️
 
 These alias commands are gonna be very useful to check the git status on your repositories:
 
